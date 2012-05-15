@@ -1,0 +1,7 @@
+TOMCAT_HOME E:\Program Files (x86)\apache-tomcat-7.0.27
+CATALINA_BASE E:\Program Files (x86)\apache-tomcat-7.0.27
+CATALINA_HOME E:\Program Files (x86)\apache-tomcat-7.0.27
+CATALINA_TMPDIR %TOMCAT_HOME%\temp
+JAVA_HOME E:\Program Files\Java\jdk1.7.0_01
+classpath .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
+path %JAVA_HOME%\bin;%TOMCAT_HOME%/bin
